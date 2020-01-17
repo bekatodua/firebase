@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295625385112",
+    "firebase_url": "https://fairbaseregistration.firebaseio.com",
+    "project_id": "fairbaseregistration",
+    "storage_bucket": "fairbaseregistration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295625385112:android:59e0d72dd9c1c67ed41ced",
+        "android_client_info": {
+          "package_name": "com.example.fairbaseregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295625385112-102ugot50r69aac6a7ubqqmqvocgvuv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fairbaseregistration",
+            "certificate_hash": "a8ba793a7e095ad5d71fe9ecf8ff7325bbf6fa29"
+          }
+        },
+        {
+          "client_id": "295625385112-0mpu4sokbfl45vg8uf6nc5mt3aj8nvn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcT2oo75Ny9PA-7KuPPlg9HPCBhVqa3a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295625385112-0mpu4sokbfl45vg8uf6nc5mt3aj8nvn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
